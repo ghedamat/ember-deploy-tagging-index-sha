@@ -1,0 +1,24 @@
+{
+  "name": "ember-deploy-tagging-index-sha",
+  "version": "0.0.1",
+  "description": "ember-deploy tagging-adapter for using the SHA representation of dist/index.html as the tag.",
+  "scripts": {
+    "test": "echo \"Error: no tests written\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Sixth Edge",
+  "license": "MIT",
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/jamesfid/ember-deploy-tagging-index-sha.git"
+  },
+  "devDependencies": {
+    "ember-cli": "^0.1.15"
+  },
+  "dependencies": {
+    "ember-deploy": "^0.3.1",
+    "core-object": "0.0.2"
+  }
+}
