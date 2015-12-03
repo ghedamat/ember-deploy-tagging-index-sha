@@ -1,4 +1,5 @@
-# ember-deploy-tagging-index-sha
+# ember-deploy-tagging-index-sha [![](https://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/plugins/ember-deploy-tagging-index-sha.svg)](http://ember-cli-deploy.github.io/ember-cli-deploy-version-badges/)
+
 A `tagging-adapter` implementation to be used with [ember-deploy](https://github.com/LevelbossMike/ember-deploy)
 
 ## Differences with the Default Tagging-Adapter
